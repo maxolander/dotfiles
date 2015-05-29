@@ -1,5 +1,5 @@
 [user]
-	name = Max Olander
-	email = max.olander@gmail.com
+  name = Max Olander
+  email = max.olander@gmail.com
 [push]
-	default = simple
+  default = simple
